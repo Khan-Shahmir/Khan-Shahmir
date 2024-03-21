@@ -46,4 +46,6 @@
 
 [instagram]: https://www.instagram.com/ 
 
-[linkedin]: https://linkedin.com/in/ 
+[linkedin]:  www.linkedin.com/in/khan-shahmir
+
+
