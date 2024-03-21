@@ -2,15 +2,14 @@
 
  
 
+
 <h2>🛡️ Information Security Projects</h2> 
 
  
 
-  - [UnderConstruction]<b><i>(</b></i> 
+ - [Under Construction](Link) 
 
-
-
-   
+ 
 
 <h2>📜 Certifications:</h2> 
 
