@@ -16,7 +16,7 @@
 
 <h2>📜 Certifications:</h2> 
 
-  - [Google Cybersecurity Professional Certificate](https://www.credly.com/earner/earned/badge/8f23544f-0d78-4345-9b1e-74c22f241256) 
+  - [Google Cybersecurity Professional Certificate](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Google%20Cybersecurity%20Professional%20Certificate.pdf) 
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/VMDR.pdf) 
 
