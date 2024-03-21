@@ -40,6 +40,9 @@
 
 [twitter]: https://twitter.com/ 
 
-[linkedin]:  www.linkedin.com/in/khan-shahmir
+[linkedin]: https://linkedin.com/in/khan-shahmir
+
+ 
+
 
 
