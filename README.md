@@ -40,10 +40,6 @@
 
 [twitter]: https://twitter.com/ 
 
-[youtube]: https://www.youtube.com/c/ 
-
-[instagram]: https://www.instagram.com/ 
-
 [linkedin]:  www.linkedin.com/in/khan-shahmir
 
 
