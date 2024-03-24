@@ -17,7 +17,7 @@
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/VMDR.pdf) 
 
- 
+  - [Qualys Cybersecurity Asset Management](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/VMDR.pdf)
 
      
 
