@@ -22,7 +22,8 @@
   - [Qualys Cloud Agent](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Cloud%20Agent.pdf)
 
   - [Qualys Patch Management](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/PM.pdf)
-     
+
+  - [Qualys Scanning Strategies and Best Practices](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Scanning.pdf)
 
 <h2> 🤳 Connect with me:</h2> 
 
