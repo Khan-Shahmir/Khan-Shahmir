@@ -26,6 +26,8 @@
   - [Qualys Scanning Strategies and Best Practices](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Scanning.pdf)
 
   - [Qualys Reporting Strategies and Best Practice](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Reporting.pdf)
+
+  - [Qualys Policy Compliance](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Policy%20Comp.pdf)
   - 
 <h2> 🤳 Connect with me:</h2> 
 
