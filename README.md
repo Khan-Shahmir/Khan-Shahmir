@@ -7,7 +7,7 @@
 
  
 
- - [Under Construction](Link) 
+ - [Azure Threat Intelligence: Microsoft Sentinel and Cloud Honey Set-Up](Link) 
 
  
 
