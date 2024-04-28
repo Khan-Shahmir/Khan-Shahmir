@@ -21,6 +21,8 @@
 
   - [Qualys Patch Management](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/PM.pdf)
 
+  - [Qualys PCI Compliance](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/PCI.pdf)
+
   - [Qualys Policy Compliance](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Policy%20Comp.pdf)
 
   - [Qualys Reporting Strategies and Best Practice](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Reporting.pdf)
