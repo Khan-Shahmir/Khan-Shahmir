@@ -8,7 +8,7 @@
  
 
  - [Azure Threat Intelligence: Microsoft Sentinel and Cloud Honey Set-Up](Link) 
-
+ - [Google Cybersecurity Professional Certificate: Portfolio Projects](https://github.com/Khan-Shahmir/Google-Professional-Cybersecurity-Certificate-Portfolio)
  
 
 <h2>📜 Certifications:</h2> 
