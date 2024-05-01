@@ -19,6 +19,8 @@
 
   - [Qualys Cybersecurity Asset Management](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/CSAM.pdf)
 
+  -  [Qualys File Integrity Monitoring](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/FIM.pdf)
+
   - [Qualys Patch Management](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/PM.pdf)
 
   - [Qualys PCI Compliance](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/PCI.pdf)
