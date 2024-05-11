@@ -32,7 +32,10 @@
   - [Qualys Scanning Strategies and Best Practices](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Scanning.pdf)
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/VMDR.pdf) 
-    
+
+  - [Qualys Web Application Scanning](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/WAS.pdf)
+
+
 <h2> 🤳 Connect with me:</h2> 
 
  
