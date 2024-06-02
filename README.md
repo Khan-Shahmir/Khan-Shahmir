@@ -12,8 +12,10 @@
  
 
 <h2>📜 Certifications:</h2> 
-
-  - [Google Cybersecurity Professional Certificate](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Google%20Cybersecurity%20Professional%20Certificate.pdf)
+ 
+   - [Fortinet Certifed Associate Cybersecurity](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Fortinet_Certified_Associate_in_Cybersecurity.pdf)
+  
+   - [Google Cybersecurity Professional Certificate](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Google%20Cybersecurity%20Professional%20Certificate.pdf)
 
   - [Qualys Cloud Agent](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Cloud%20Agent.pdf)
 
