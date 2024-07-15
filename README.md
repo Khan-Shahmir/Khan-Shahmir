@@ -12,6 +12,7 @@
  
 
 <h2>📜 Certifications:</h2> 
+
    - [CompTIA Network+ Certification](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/CompTIA%20Network%2B.pdf)
    
    - [Fortinet Certifed Associate Cybersecurity](https://github.com/Khan-Shahmir/Khan-Shahmir/blob/main/Fortinet_Certified_Associate_in_Cybersecurity.pdf)
